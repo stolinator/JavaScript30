@@ -12,8 +12,6 @@ Feel free to submit a PR adding a link to your own recaps, guides or reviews!
 
 * [Arjun Khode’s blog](http://thesagittariusme.blogspot.com/search/label/JS30) about summaries for each day, including fixed glitches, bugs and extra features
 * [Nitish Dayal's Text Guides](https://github.com/nitishdayal/JavaScript30) are great for those who like reading over watching
-* [Meredith Underell's](http://meredithunderell.com/tag/javascript30/) Quick Lessons Learned
-* [Rowan Weismiller's](http://rowanweismiller.com/blog/javascript-30/) Recaps + Lessons Learned
 * [Thorsten Frommen](https://tfrommen.de/tag/javascript-30/) shares how he solved the exercises before viewing the answers
 * [Soyaine 写的中文指南](https://github.com/soyaine/JavaScript30)包含了过程记录和难点解释
 * [Ayo Isaiah's](https://freshman.tech/archive/#javascript30) Recaps and Lessons Learned
@@ -67,6 +65,7 @@ Here are some links of people who have done the tutorials, but in a different la
 * [Will Wager](https://github.com/wwags33/JavaScript30) another [TypeScript](https://www.typescriptlang.org/) implementation!
 * [marcoSven](https://github.com/marcoSven) solution suggestion for [10 - Hold Shift and Check Checkboxes](https://github.com/marcoSven/JavaScript30/blob/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index-FINISHED.html)
 * [ALMaclaine](https://github.com/almaclaine) Javascript 30 written in [Dart 2.0](https://github.com/ALMaclaine/Dart30).
+* [Connie Leung](https://github.com/railsstudent) Javascript 30 written in [Angular and RxJS](https://github.com/railsstudent/ng-rxjs-30).
 
 ## A note on Pull Requests
 
